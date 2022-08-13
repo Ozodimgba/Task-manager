@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app"
 import { getFirestore } from 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD5Kj7NU256TKVncdOCy_TELSmdRrEAH4c",
-  authDomain: "task-manager-1e712.firebaseapp.com",
-  projectId: "task-manager-1e712",
-  storageBucket: "task-manager-1e712.appspot.com",
-  messagingSenderId: "935257286219",
-  appId: "1:935257286219:web:d88cfe3837e8e9a4e2cfce"
+  apiKey: "AIzaSyAUZvKsfPOQXWefNAReRVfHfO34EVIL1UQ",
+  authDomain: "learning-firebase-3bdfe.firebaseapp.com",
+  projectId: "learning-firebase-3bdfe",
+  storageBucket: "learning-firebase-3bdfe.appspot.com",
+  messagingSenderId: "1067689616356",
+  appId: "1:1067689616356:web:93bd3964fa285d3e845df1"
 };
 
 // Initialize Firebase and Firestore
